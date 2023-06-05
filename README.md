@@ -11,7 +11,7 @@ SDA->PC1
 
 SCL->PC0
 
-The LCD display works with the AVR Atmega32 microcontroller using 4-bit mode, where are used four data lines (D4-D7) to send commands and data. These data lines can be connected to any Atmega32 port. To establish a connection between the LCD and the microcontroller, you need to connect the following pins:
+The LCD display works with the AVR Atmega32 microcontroller using 4-bit mode, where four data lines (D4-D7) are used to send commands and data. These data lines can be connected to any Atmega32 port. To establish a connection between the LCD and the microcontroller, you need to connect the following pins:
 
 D4-D7->PA4-PA7
 
